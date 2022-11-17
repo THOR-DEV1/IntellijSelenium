@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestngClass.Testparaalel
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.868 s <<< FAILURE! - in TestngClass.Testparaalel
+start(TestngClass.Testparaalel)  Time elapsed: 0.56 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeTest on method start but has not been marked @Optional or defined
+
+
